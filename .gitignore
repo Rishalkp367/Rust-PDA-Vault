@@ -1,0 +1,19 @@
+# Node
+node_modules/
+.yarn/
+.pnp.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Anchor / Solana
+target/
+test-ledger/
+.anchor/
+
+# Rust
+**/target/
+Cargo.lock
+
+# OS
+.DS_Store
